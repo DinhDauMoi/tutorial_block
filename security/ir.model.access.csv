@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_tutorial_block_tutorial_block,tutorial_block.tutorial_block,model_tutorial_block_tutorial_block,base.group_user,1,1,1,1
